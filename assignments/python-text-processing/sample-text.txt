@@ -1,0 +1,3 @@
+Python is a powerful language. It makes text processing simple and fun!
+Students can work with files, strings, and data.
+Fast feedback helps learners improve quickly.
