@@ -1,4 +1,10 @@
 
+---
+title: "Python Basics"
+difficulty: "Beginner"
+estimated_time: "30-45 minutes"
+---
+
 # 📘 Assignment: Python Basics
 
 ## 🎯 Objective
